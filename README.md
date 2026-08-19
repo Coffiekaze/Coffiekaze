@@ -13,4 +13,4 @@ Python · C++ · Java · PyTorch · scikit-learn · SQL · Git
 
 ## Currently
 - 📚 AWS Cloud Practitioner + Google IT Support cert in progress
-- 💼 Open to new grad roles in Alberta
+- 💼 Open to new grad roles 
